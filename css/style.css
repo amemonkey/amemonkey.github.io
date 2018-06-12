@@ -9,3 +9,7 @@ head{
 body{
 	background-color: yellow;
 }
+
+#pic {
+	size: 500px;
+}
